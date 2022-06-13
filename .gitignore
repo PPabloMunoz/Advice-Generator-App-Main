@@ -18,6 +18,7 @@
 node_modules/
 scss/custom.scss
 design/
+css/custom.css
 
 README-template.md
 style-guide.md
@@ -26,4 +27,5 @@ package-lock.json
 package.json
 
 prepros.config
+
 
